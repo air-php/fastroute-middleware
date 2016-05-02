@@ -73,7 +73,6 @@ class FastRoute
                     }
                 }
 
-                $response = $response->withStatus(200);
                 break;
 
             default:
